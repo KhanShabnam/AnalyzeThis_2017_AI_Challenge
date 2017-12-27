@@ -3,5 +3,5 @@
 
 MNIST_data/
 notMNIST_data/
-minimalsample/
-minimalsample_notmnist/
+embedding_data_mnist/
+embedding_data_notmnist/
