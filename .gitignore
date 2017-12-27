@@ -5,3 +5,5 @@ MNIST_data/
 notMNIST_data/
 embedding_data_mnist/
 embedding_data_notmnist/
+
+notmnist_current_model/logs/train/
