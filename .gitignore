@@ -1,6 +1,7 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+images/
 MNIST_data/
 notMNIST_data/
 embedding_data_mnist/
